@@ -1,0 +1,7 @@
+Ticker
+^GSPC
+^NDX
+^GDAXI
+^TECDAX
+^STOXX50E
+XPP
