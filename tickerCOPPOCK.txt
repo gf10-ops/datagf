@@ -1,4 +1,4 @@
-Ticker
+^TECDAX
 ^GSPC
 ^NDX
 ^GDAXI
