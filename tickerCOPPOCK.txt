@@ -1,3 +1,4 @@
+SPY
 ^ATX
 ^BFX
 ^BVSP
@@ -39,3 +40,4 @@ IWM
 IWRD.AS
 TDT.AS
 XCS6.DE
+
